@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **Java, React, SpringBoot, API's**
 
 - 👨‍💻 All of my projects are available at 
-GitHub ->  [https://github.com/jailsonveiga](https://github.com/jailsonveiga)       
+GitHub ->  [https://github.com/jailsonveiga](https://github.com/jailsonveiga) 
+Trailblazer -> Salesforce -> https://trailblazer.me/id/jdaveiga1
                                                                           
 
 - 📫 How to reach me **jmdaveiga2012@hotmail.com**
