@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jailsonveiga&show_icons=true&theme=dark&locale=en" alt="jailsonveiga" /></p>
 
-- 🌱 I’m currently working with **Java, React, SpringBoot**
+- 🌱 I’m currently learning **Java, React, SpringBoot, API's**
 
 - 👨‍💻 All of my projects are available at 
 GitHub ->  [https://github.com/jailsonveiga](https://github.com/jailsonveiga)       
