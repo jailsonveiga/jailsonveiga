@@ -9,8 +9,9 @@
 GitHub ->  [https://github.com/jailsonveiga](https://github.com/jailsonveiga) 
                                        
     Trailblazer -> Salesforce -> https://trailblazer.me/id/jdaveiga1
-                                                                          
-
+    
+    ![trailblazersalesforce](https://user-images.githubusercontent.com/96090663/176032741-9c4e1362-b93e-45be-9347-c7a712626416.png)
+                                         
 - 📫 How to reach me **jmdaveiga2012@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
